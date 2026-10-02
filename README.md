@@ -1,4 +1,9 @@
 ## Hi there 👋
+Jaz sem Tilen Fajt. 
+
+Hodim v 3.letnik računalniške šole v Novi Gorici. 
+
+V prostem času se ukvarjam s sojenjem nogometnih tekem in igranjem električni kitare.
 
 <!--
 **TilenFajt/TilenFajt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
