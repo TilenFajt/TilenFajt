@@ -1,4 +1,4 @@
-## Hi there 👋
+## Živijo 👋
 Jaz sem Tilen Fajt. 
 
 Hodim v 3.letnik računalniške šole v Novi Gorici. 
